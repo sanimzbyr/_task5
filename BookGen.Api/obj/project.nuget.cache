@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sh/iHbuDtX8=",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Task 5\\BookGenEnhanced\\BookGen.Api\\BookGen.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
